@@ -1,6 +1,6 @@
 import ProductDetails from "./productDetails.mjs"; //new
 import { getParams } from "./utils.mjs";
-import { ProductData } from "../productData.mjs";
+import { ProductData } from "./productData.mjs";
 
 const dataSource = new ProductData("tents");
 
